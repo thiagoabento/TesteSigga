@@ -1,0 +1,17 @@
+ B) Além dos cenários propostos na questão A, listar outros possíveis cenários de teste que você sugere para
+cobertura do cenário funcional.
+
+ 1 - Validar se o campo de senha foi preechido, caso esteja vazio emitir uma mensagem para o usuário e bloquear o acesso ao app.
+
+2 - Validar se os campo de login e senha estão sendo obrigatórios.
+
+3 - Validar se a opção "Mostrar senha" está se comportando de maneira correta.
+
+4 - Validar se o campo de usuário está sendo informado com um e-mail válido.
+
+5 - Validar se, ao inserir apenas um campo, se o app irá obrigar o usuário a digitar todos os campos solicitados.
+
+6 - Validar se a função de recuperar senha está se comportamento corretamente.
+
+5 - Validar se ao inserir um e-mail não cadastrado no app, se a mensagem se "Usuário inválido" será apresentada.
+
